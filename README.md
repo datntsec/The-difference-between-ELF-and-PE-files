@@ -1,4 +1,4 @@
-# The-difference-between-ELF-and-PE-files
+# The difference between ELF and PE files.
 Cách sử dụng .so/.lib file và sự khác nhau giữa file ELF và PE khi liên kết động và biên dịch file thực thi.
 -
 
