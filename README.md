@@ -235,3 +235,9 @@ Section contains the following imports:
 + Trong file thực thi, ELF sẽ ghi đường dẫn của dynamic link library, và load dynamic link library từ path đã ghi trong runtime, PE thì chỉ ghi lại thông tin như tên của dynamic link library, và tìm kiếm theo được dẫn được thiết lập trước bởi hệ điều hành trong runtime.
   
 # Tham khảo: [The use of .so/.lib files and the difference between ELF and PE files when dynamically linking and compiling executable files](https://www.polarxiong.com/archives/%E5%8A%A8%E6%80%81%E9%93%BE%E6%8E%A5%E7%BC%96%E8%AF%91%E5%8F%AF%E6%89%A7%E8%A1%8C%E6%96%87%E4%BB%B6%E6%97%B6-so-lib%E6%96%87%E4%BB%B6%E7%9A%84%E7%94%A8%E5%A4%84%E4%BB%A5%E5%8F%8AELF%E4%B8%8EPE%E6%96%87%E4%BB%B6%E7%9A%84%E5%8C%BA%E5%88%AB.html)
+
+<p align="right">
+  <b><i>DatntSec. Viettel Cyber Security.<i><b>
+</p>
+    
+
